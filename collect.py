@@ -118,7 +118,7 @@ KW = {
     "软件": ["限免", "正版", "激活", "license", "终身", "免费下载", "mac", "windows", "ios", "安卓",
              "工具", "插件", "脚本", "黑五", "giveaway"],
     "硬件": ["硬盘", "ssd", "固态", "内存", "显卡", "迷你主机", "软路由", "群晖", "显示器", "机械键盘"],
-    "家庭": ["亲子", "儿童", "少儿", "博物馆", "科技馆", "图书馆", "夏令营", "研学"],
+    "亲子": ["亲子", "儿童", "少儿", "博物馆", "科技馆", "图书馆", "夏令营", "研学"],
     "素材": ["字体", "图库", "素材", "音效", "bgm", "免费商用", "可商用", "icon", "模板", "课件",
              "教程", "课程", "电子书", "古籍"],
 }
@@ -274,7 +274,7 @@ RSS_FEEDS = [
      {"titleKeywords": ["100% discount", "free", "giveaway"]}),
     ("ghxi", "果核剥壳", "https://www.ghxi.com/feed", 12, {}),
     ("yxssp", "异星软件空间", "https://www.yxssp.com/feed", 12, {}),
-    # 游戏限免（孩子/自己都能玩）
+    # 游戏限免
     ("itch", "itch.io 100% off", "https://itch.io/games/on-sale.xml", 20, {"only100Off": True}),
     ("reddit喜加一", "Reddit FreeGameFindings", "https://www.reddit.com/r/FreeGameFindings/hot.rss", 25, {}),
     ("keylol", "其乐 Keylol", "https://keylol.com/forum.php?mod=rss", 15, {"simpleUA": True}),
