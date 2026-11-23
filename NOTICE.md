@@ -2,7 +2,8 @@
 
 本项目是 **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** 的精简移植版（derivative work）。
 
-上游以 **MIT License** 发布，原始版权声明：
+移植部分的上游版权：`Copyright (c) 2026 ZiChuanLan (https://github.com/ZiChuanLan/freebie-radar)`。
+上游以 **MIT License** 发布，原始许可证全文：
 
 ```
 MIT License
