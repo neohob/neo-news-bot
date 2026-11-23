@@ -1,0 +1,21 @@
+# 运行态文件：每台机器各自产生，不要提交
+seen.json
+baseline.json
+candidates.json
+*.bak
+*.bak.json
+
+# 日志
+run.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
